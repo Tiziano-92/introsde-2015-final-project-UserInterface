@@ -64,6 +64,7 @@ In particular, it has been coded a service which calls other four services from 
 It acts as an orchestration.
 </li>
 </ul>
+<img src="https://github.com/introsde-2015-final-project/UserInterface/blob/master/Schermata%202016-01-13%20alle%2020.36.38.png" width="700">
 
 <br/>
 <h3>Tools, services and technologies used</h3>
