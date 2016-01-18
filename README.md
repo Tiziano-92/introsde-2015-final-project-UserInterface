@@ -31,7 +31,6 @@ On the other hand, if the goal is not reached, the application returns back a mo
 (taken by <em>quotesondesign API</em>). It is used to encourage the user to improve himself and doing better the next time. 
 For simplicity, we just consider person who want to get weight.
 
-<br/>
 To run the application: ant compile, ant run.
 
 
